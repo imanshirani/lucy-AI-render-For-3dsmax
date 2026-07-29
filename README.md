@@ -1,12 +1,20 @@
 # LucyLive AI — Real-Time AI Rendering for 3ds Max
 
-Transform your 3ds Max viewport into a live AI-rendered scene in real time.
 
+[![Donate ❤️](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=LAMNRY6DDWDC4)
+![3dsmax](https://img.shields.io/badge/Autodesk-3ds%20Max-0696D7?style=flat-square&logo=autodesk)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/GUI-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
+
+Transform your 3ds Max viewport into a live AI-rendered scene in real time.
+Developed by: Iman Shirani
 LucyLive streams your viewport directly to Decart's Lucy 2.5 model via WebRTC and sends back AI-rendered frames — live, as you work. No baking, no waiting for renders. Just type a prompt and watch your scene transform instantly.
 
+![screenshot](etc/Screenshot.png)
 ---
 
-## What it does
+## ✨ What it does
 
 - Streams your Max viewport to Lucy 2.5 (by Decart) at up to 30fps
 - Displays AI output in a floating preview window — like a VFB, always on top
@@ -24,7 +32,7 @@ LucyLive streams your viewport directly to Decart's Lucy 2.5 model via WebRTC an
 
 ---
 
-## Installation
+## 📦 Installation
 
 1. Download and extract the folder
 2. Run `install.bat` — this sets up the Python environment automatically
@@ -33,7 +41,7 @@ LucyLive streams your viewport directly to Decart's Lucy 2.5 model via WebRTC an
 
 ---
 
-## How to use
+## 🛠️ How to use
 
 1. Paste your Decart API key into the API Key field
 2. Type a prompt:
@@ -60,7 +68,7 @@ Lucy 2.5 is a video-to-video model. Prompts should describe the **visual output*
 
 ## Cost
 
-~$0.02 / second (~$1.20 / minute) on your Decart account.
+$0.02 / second (~$1.20 / minute) on your Decart account.
 Free credits are available at [platform.decart.ai](https://platform.decart.ai).
 
 ---
