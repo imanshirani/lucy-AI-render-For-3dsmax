@@ -1,9 +1,9 @@
 {
-    "decart_key": "dct_3dsmax_VquSswIDKReZvBgJNNXAOwKBgXZHfReFCoVOMKGRWaxdeiBgmncnFciUFWDJDatt",
+    "decart_key": "",
     "canvas_width": 1280,
     "canvas_height": 720,
     "capture_interval_ms": 125,
     "codec": "h264",
-    "rec_path": "C:/Users/MYARTSBOX/Desktop/lucy",
+    "rec_path": "",
     "rec_fmt": "JPEG Seq"
 }
