@@ -8,7 +8,9 @@
 ![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
 
 Transform your 3ds Max viewport into a live AI-rendered scene in real time.
+
 Developed by: Iman Shirani
+
 LucyLive streams your viewport directly to Decart's Lucy 2.5 model via WebRTC and sends back AI-rendered frames — live, as you work. No baking, no waiting for renders. Just type a prompt and watch your scene transform instantly.
 
 ![screenshot](etc/Screenshot.png)
